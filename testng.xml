@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true"
           name="Main Test">
         <classes>
-            <class name="GoRest._06_GoRestUsersTest">
+            <class name="Campus.CountryTest">
 
             </class>
         </classes>
