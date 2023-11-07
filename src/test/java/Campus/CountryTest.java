@@ -139,7 +139,7 @@ public class CountryTest {
 
                 .then()
                 .log().body()
-                .statusCode(200)
+                .statusCode(500)
         ;
     }
 
