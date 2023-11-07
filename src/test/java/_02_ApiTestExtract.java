@@ -6,7 +6,7 @@ import java.util.List;
 
 import static io.restassured.RestAssured.given;
 
-public class ZippoTestExtract {
+public class _02_ApiTestExtract {
 
     @Test
     public void extractingJsonPath(){
